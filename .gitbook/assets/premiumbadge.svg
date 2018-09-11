@@ -1,0 +1,21 @@
+<svg width="34px" height="43px" viewBox="0 0 34 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Public-V1-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Upgrade---Portfolio-View" transform="translate(-788.000000, -98.000000)">
+            <g id="Group-11" transform="translate(495.000000, 99.000000)">
+                <g id="Group-28" transform="translate(293.000000, 0.000000)">
+                    <g id="Group-38" transform="translate(0.859375, 0.328125)">
+                        <circle id="Oval-2" fill="#FFFFFF" cx="16" cy="19.5" r="10.5"></circle>
+                        <path d="M16,33.3 L10,37.2 L10,29.2 C11.7,30.3 13.8,31 16,31 C18.2,31 20.3,30.3 22,29.2 L22,37.2 L16,33.3 Z M16,11 C21,11 25,15 25,20 C25,25 21,29 16,29 C11,29 7,25 7,20 C7,15 11,11 16,11 L16,11 Z M27,20 C27,13.9 22.1,9 16,9 C9.9,9 5,13.9 5,20 C5,22.9 6.1,25.6 8,27.5 L8,41 L16,35.7 L24,41 L24,27.5 C25.9,25.6 27,22.9 27,20 L27,20 Z" id="Fill-1" fill="#FCBD01"></path>
+                        <circle id="Oval" stroke="#FCBD01" stroke-width="2" cx="16" cy="20" r="7"></circle>
+                        <g id="Group-34" transform="translate(0.505556, 0.252191)" stroke="#FCBD01" stroke-linecap="square" stroke-width="2">
+                            <path d="M15.4835544,0.111980345 L15.4835544,6.11198035" id="Line-5"></path>
+                            <path d="M31.0512793,6.78386242 L26.8086386,11.0265031" id="Line-7"></path>
+                            <path d="M4.54004161,6.78386242 L0.297400924,11.0265031" id="Line-7" transform="translate(2.418721, 8.905183) scale(-1, 1) translate(-2.418721, -8.905183) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
