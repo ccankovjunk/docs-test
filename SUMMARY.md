@@ -7,3 +7,7 @@
 * [Performance](performance-1/performance-q.md)
 * [API Test](performance-1/untitled.md)
 
+## Testing
+
+* [Guide](testing/guide.md)
+
