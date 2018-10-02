@@ -6,7 +6,7 @@
 * [Internationalization](internationalization/internationalization.md)
   * [Internationalization](internationalization/internationalization.md)
   * [Internationalization in Luna1](internationalization/internationalization_luna1.md)
-    * [Deeper Link](internationalization/luna1/test.md)
+    * [Nested Doc](internationalization/luna1/test.md)
   * [Voicepen](internationalization/voicepen_internationalization.md)
   * [Internationalization Best Practices](internationalization/internationalization_best_practices.md)
 
