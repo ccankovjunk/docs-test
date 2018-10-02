@@ -223,4 +223,5 @@ In some cases you may end up with:
 tx("some really really long string that is so long it can't even fit on one line and it takes up so much space in your code and it's really really big")
 ```
 
-Voicepen will truncate long keys to 12 words followed by an `[...]` to indicate there's more to the key. It makes your code much easier to read and you don't have to deal with pesky multiline strings and such. 
+Voicepen will truncate long keys to 12 words followed by an `[...]` to indicate there's more to the key. 
+It makes your code much easier to read and you don't have to deal with pesky multiline strings and such. 
