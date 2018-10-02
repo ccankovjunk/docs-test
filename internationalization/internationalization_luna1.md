@@ -1,4 +1,4 @@
-# Internationalization (in Luna 1)
+# Internationalization in Luna1
 
 a.k.a. i18n, localization, translation
 
@@ -6,9 +6,9 @@ See [internationalization.md](internationalization.md) for information on intern
 
 ## Quick start
 
-In Luna1 (javascript) files, the `tx` function is used like so:
+In Luna1 \(javascript\) files, the `tx` function is used like so:
 
-```
+```text
 import tx from "luna/common/localization/tx";
 
 DIV({}, [
@@ -16,6 +16,5 @@ DIV({}, [
 ])
 ```
 
-This `tx` function is identical to the `LocalizationService.tx` function used
-in Luna Ui. See [internationalization.md](internationalization.md)
-for more information on how to use `tx` and for best practices.
+This `tx` function is identical to the `LocalizationService.tx` function used in Luna Ui. See [internationalization.md](internationalization.md) for more information on how to use `tx` and for best practices.
+
