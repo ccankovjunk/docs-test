@@ -76,29 +76,5 @@ $$
 
 {% file src=".gitbook/assets/lorem-ipsum.pdf" caption="Lorem Ipsum" %}
 
-{% api-method method="get" host="https://app.asana.com" path="/api/1.0" %}
-{% api-method-summary %}
-API
-{% endapi-method-summary %}
 
-{% api-method-description %}
-See your Asana user info.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
