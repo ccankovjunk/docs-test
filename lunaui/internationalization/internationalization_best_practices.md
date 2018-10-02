@@ -6,7 +6,7 @@
 
 Write your code for clear, well-written translations.
 
-Once you know the basics of [how to use our i18n framework](internationalization.md), it's important that you use it in a way that makes it possible to write great translations.
+Once you know the basics of [how to use our i18n framework](./), it's important that you use it in a way that makes it possible to write great translations.
 
 That said, it's not always possible to follow all of the best practices, so use your best judgment when following these.
 
@@ -134,7 +134,7 @@ tx("You have joined the {variant}")
 
 Using the special placeholder variable `{variant}` triggers the variant system in our framework. This makes it possible for our translators to create article-noun agreement \(like choosing `die`, `das`, or `der` in German\).
 
-Check out more details on how to use variants [here](internationalization.md#use-variants-when-placeholders-are-translated-words).
+Check out more details on how to use variants [here](./#use-variants-when-placeholders-are-translated-words).
 
 **this is OK:**
 

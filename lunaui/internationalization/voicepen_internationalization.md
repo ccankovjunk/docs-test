@@ -6,7 +6,7 @@ You can use our internal voicepen command-line tool to rapidly speed up your int
 
 ### Prerequisites
 
-Before using voicepen, we recommend internationalizing one string by hand so that you're familiar with a bit of what's going on behind the hood. Check out the [internationalization readme](internationalization.md).
+Before using voicepen, we recommend internationalizing one string by hand so that you're familiar with a bit of what's going on behind the hood. Check out the [internationalization readme](./).
 
 ### Quick Start
 

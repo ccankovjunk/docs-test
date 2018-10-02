@@ -2,13 +2,13 @@
 
 Internationalization \(or i18n for short\) is the process of making your code translatable into multiple languages.
 
-Related: [voicepen](voicepen_internationalization.md), [i18n in Luna1](internationalization_luna1.md), [i18n Best Practices](internationalization_best_practices.md)
+Related: [voicepen](voicepen_internationalization.md), [i18n in Luna1](internationalization_luna1/), [i18n Best Practices](internationalization_best_practices.md)
 
 Let's get started.
 
 ## Luna1
 
-See [internationalization in Luna1](internationalization_luna1.md).
+See [internationalization in Luna1](internationalization_luna1/).
 
 ## Luna2 Quick Start
 

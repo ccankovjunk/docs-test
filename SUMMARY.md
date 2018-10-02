@@ -3,16 +3,20 @@
 * [Home](README.md)
 
 ## LunaUI
-* [Internationalization](internationalization/internationalization.md)
-  * [Internationalization](internationalization/internationalization.md)
-  * [Internationalization in Luna1](internationalization/internationalization_luna1.md)
-    * [Nested Doc](internationalization/luna1/test.md)
-  * [Voicepen](internationalization/voicepen_internationalization.md)
-  * [Internationalization Best Practices](internationalization/internationalization_best_practices.md)
+
+* [Internationalization](lunaui/internationalization/README.md)
+  * [Internationalization](lunaui/internationalization/internationalization.md)
+  * [Internationalization in Luna1](lunaui/internationalization/internationalization_luna1/README.md)
+    * [Nested Doc](lunaui/internationalization/internationalization_luna1/test.md)
+  * [Voicepen](lunaui/internationalization/voicepen_internationalization.md)
+  * [Internationalization Best Practices](lunaui/internationalization/internationalization_best_practices.md)
 
 ## Performance
+
 * [Performance](performance/performance-q.md)
 * [API Test](performance/untitled.md)
 
 ## Testing
+
 * [Guide](testing/guide.md)
+
