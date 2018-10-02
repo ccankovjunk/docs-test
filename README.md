@@ -40,8 +40,8 @@ Table:
 
 Hint:
 
-{% hint style="info" %}
-Some GitBook content, like this hint, is not fully compatible via the bidirectional sync with GitHub.
+{% hint style="warning" %}
+Some GitBook content, like this warning, is not fully supported via the bidirectional sync with GitHub.
 {% endhint %}
 
 Link to another document:
