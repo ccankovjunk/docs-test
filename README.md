@@ -7,9 +7,7 @@ description: >-
 
 # Home
 
-A demo of some of GitBook's fancier features.
-
-### A list of tasks
+### Checklist
 
 * [ ] Start using Asana
 * [ ] Convince coworkers to use Asana
