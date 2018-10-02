@@ -148,7 +148,7 @@ system in our framework. This makes it possible for our translators
 to create article-noun agreement
 (like choosing `die`, `das`, or `der` in German).
 
-Check out more details on how to use variants [here](/asana2/docs/luna2/web_app/luna-ui/internationalization.md#use-variants-when-placeholders-are-translated-words).
+Check out more details on how to use variants [here](internationalization.md#use-variants-when-placeholders-are-translated-words).
 
 **this is OK:**
 ```
