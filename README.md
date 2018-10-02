@@ -11,8 +11,9 @@ A demo of some of GitBook's fancier features.
 
 A list of tasks:
 
-* [ ] Get buy-in for GitBook
-* [ ] Migrate to GitBook
+* [ ] Start using Asana
+* [ ] Convince coworkers to use Asana
+* [ ] Work together effortlessly
 * [ ] ...
 * [ ] Profit!
 
