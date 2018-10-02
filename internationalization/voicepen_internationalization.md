@@ -6,7 +6,7 @@ You can use our internal voicepen command-line tool to rapidly speed up your int
 
 Before using voicepen, we recommend internationalizing one string by hand
 so that you're familiar with a bit of what's going on behind the hood. Check
-out the [internationalization readme](/asana2/docs/luna2/web_app/luna-ui/internationalization.md).
+out the [internationalization readme](internationalization.md).
 
 ## Quick Start
 
