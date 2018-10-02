@@ -4,7 +4,7 @@
 
 ## LunaUI
 
-* [Internationalization](lunaui/internationalization/README.md)
+* Internationalization
   * [Internationalization](lunaui/internationalization/internationalization.md)
   * [Internationalization in Luna1](lunaui/internationalization/internationalization_luna1/README.md)
     * [Nested Doc](lunaui/internationalization/internationalization_luna1/test.md)
