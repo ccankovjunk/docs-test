@@ -76,7 +76,7 @@ $$
 
 {% file src=".gitbook/assets/lorem-ipsum.pdf" caption="Lorem Ipsum" %}
 
-{% api-method method="get" host="https://app.asana.com" path="/api/1.0/users/me" %}
+{% api-method method="get" host="https://app.asana.com" path="/api/1.0" %}
 {% api-method-summary %}
 API
 {% endapi-method-summary %}
