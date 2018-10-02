@@ -2,13 +2,13 @@
 
 Internationalization \(or i18n for short\) is the process of making your code translatable into multiple languages.
 
-Related: [voicepen](voicepen_internationalization.md), [i18n in Luna1](internationalization_luna1/), [i18n Best Practices](internationalization_best_practices.md)
+Related: [voicepen](), [i18n in Luna1](), [i18n Best Practices]()
 
 Let's get started.
 
 ## Luna1
 
-See [internationalization in Luna1](internationalization_luna1/).
+See [internationalization in Luna1]().
 
 ## Luna2 Quick Start
 
@@ -86,9 +86,9 @@ You liked this {variant}:
 
 Your view will now display the English version. You can now check in and deploy your code - there's no need to wait for translation to be complete before turning on your feature.
 
-### PROTIP: Use [voicepen](voicepen_internationalization.md) to add strings quickly
+### PROTIP: Use [voicepen]() to add strings quickly
 
-You're welcome to add strings to `en.yaml` manually. However, we recommend using [the `voicepen` command](voicepen_internationalization.md) to do it for you automatically. It's available from your command line like so:
+You're welcome to add strings to `en.yaml` manually. However, we recommend using [the `voicepen` command]() to do it for you automatically. It's available from your command line like so:
 
 ```text
 $ voicepen
@@ -101,7 +101,7 @@ Sorting the entire en.yaml file...
 All done!
 ```
 
-You can read more in-depth docs in [the voicepen readme](voicepen_internationalization.md).
+You can read more in-depth docs in [the voicepen readme]().
 
 ## Implementation details
 

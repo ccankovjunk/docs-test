@@ -1,11 +1,8 @@
----
-description: >-
-  This is a test GitBook instance to demo logged-in features and interactions
-  offered by GitBook. Feel free to create or modify content at will, but avoid
-  publishing sensitive company data!
----
-
 # Home
+
+### Link 
+
+A simple [link](lunaui/internationalization/).
 
 ### Checklist
 
@@ -44,8 +41,6 @@ Some GitBook content, like this warning, is not fully supported via the bidirect
 {% endhint %}
 
 ### Link to another document
-
-{% page-ref page="lunaui/internationalization/internationalization.md" %}
 
 ### Tabs
 
