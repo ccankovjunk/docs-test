@@ -58,7 +58,6 @@ function getButtonText() {
   return tx("Comment");
 }
 ```
-
 In this case, the translator can't tell if you mean "Comment, the noun" or "Comment, the verb."
 If they choose the noun "Kommentar" in German, then the button will mean
 "display comment", rather than "leave a comment".
