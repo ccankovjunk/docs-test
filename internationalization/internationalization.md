@@ -6,7 +6,6 @@ Related: [voicepen](voicepen_internationalization.md), [i18n in Luna1](internati
 
 Let's get started.
 
-
 ## Luna1
 
 See [internationalization in Luna1](internationalization_luna1.md).
