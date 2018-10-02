@@ -5,8 +5,8 @@
 ## Internationalization
 
 * [Internationalization](internationalization/internationalization.md)
-* [Internationalization in Luna1](internationalization/internationalization_in_luna1.md)
-* [Voicepen](internationalization/voicepen.md)
+* [Internationalization in Luna1](internationalization/internationalization_luna1.md)
+* [Voicepen](internationalization/voicepen_internationalization.md)
 * [Internationalization Best Practices](internationalization/internationalization_best_practices.md)
 
 ## Performance
@@ -17,4 +17,3 @@
 ## Testing
 
 * [Guide](testing/guide.md)
-
