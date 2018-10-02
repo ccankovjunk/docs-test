@@ -9,7 +9,7 @@ description: >-
 
 A demo of some of GitBook's fancier features.
 
-A list of tasks:
+### A list of tasks
 
 * [ ] Start using Asana
 * [ ] Convince coworkers to use Asana
@@ -17,7 +17,7 @@ A list of tasks:
 * [ ] ...
 * [ ] Profit!
 
-Code blocks:
+### Code blocks
 
 ```javascript
 function greeter(person) {
@@ -29,27 +29,27 @@ let user = "Jane User";
 document.body.innerHTML = greeter(user);
 ```
 
-Image:
+### Image
 
 ![In space, no one can hear you meow.](.gitbook/assets/image.png)
 
-Table:
+### Table
 
 | Heading 1 | Heading 2 |
 | :--- | :--- |
 | Content 1 | content 2 |
 
-Hint:
+### Hint
 
 {% hint style="warning" %}
 Some GitBook content, like this warning, is not fully supported via the bidirectional sync with GitHub.
 {% endhint %}
 
-Link to another document:
+### Link to another document
 
 {% page-ref page="lunaui/internationalization/internationalization.md" %}
 
-Tabs:
+### Tabs
 
 {% tabs %}
 {% tab title="Primary Tab" %}
@@ -73,13 +73,13 @@ document.body.innerHTML = greeter(user);
 {% endtab %}
 {% endtabs %}
 
-Formula:
+### Formula
 
 $$
 a = b
 $$
 
-File:
+### File
 
 {% file src=".gitbook/assets/lorem-ipsum.pdf" caption="Lorem Ipsum" %}
 
