@@ -1,16 +1,17 @@
 # Home
 
-### Link 
+## Link
 
 GitBook makes it easy to [manage simple links](lunaui/internationalization/).
 
-### Checklist
+## Checklist
 
 * [ ] One
 * [ ] Two
 * [ ] Three
+* [ ] Four
 
-### Code
+## Code
 
 ```javascript
 function greeter(person) {
@@ -22,29 +23,29 @@ let user = "Jane User";
 document.body.innerHTML = greeter(user);
 ```
 
-### Image
+## Image
 
 ![In space, no one can hear you meow.](.gitbook/assets/image.png)
 
-### Table
+## Table
 
 | Heading 1 | Heading 2 |
 | :--- | :--- |
 | Content 1 | content 2 |
 
-### Hint
+## Hint
 
 {% hint style="warning" %}
 Some GitBook content, like this warning, is not fully supported via the bidirectional sync with GitHub.
 {% endhint %}
 
-### Prominent Link
+## Prominent Link
 
-### Tabs
+## Tabs
 
 {% tabs %}
 {% tab title="Primary Tab" %}
-Hello, 
+Hello,
 {% endtab %}
 
 {% tab title="Click Me!" %}
@@ -64,15 +65,13 @@ document.body.innerHTML = greeter(user);
 {% endtab %}
 {% endtabs %}
 
-### Formula
+## Formula
 
 $$
 a = b
 $$
 
-### File
+## File
 
 {% file src=".gitbook/assets/lorem-ipsum.pdf" caption="Lorem Ipsum" %}
-
-
 
