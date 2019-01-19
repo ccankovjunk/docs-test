@@ -6,11 +6,9 @@ GitBook makes it easy to [manage simple links](lunaui/internationalization/).
 
 ### Checklist
 
-* [ ] Start using Asana
-* [ ] Convince coworkers to use Asana
-* [ ] Work together effortlessly
-* [ ] ...
-* [ ] Profit!
+* [ ] One
+* [ ] Two
+* [ ] Three
 
 ### Code
 
