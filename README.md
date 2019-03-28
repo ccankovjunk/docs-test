@@ -4,6 +4,8 @@
 
 GitBook makes it easy to [manage simple links](lunaui/internationalization/).
 
+Test test test - what happens in GitHub when another user makes changes?
+
 ## Checklist
 
 * [ ] One
